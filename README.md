@@ -1,4 +1,4 @@
-# Tourisme Medical - Created by Anonym Group
+# Tourisme Medical -
 A single page web applications with many features .
 Mean Stack Project Esprit Medical Tourism platform . 
 Https protcol . User ( doctor, patient , hotel manager , agency manager ) Management with hashed and encrypted logins .
@@ -55,4 +55,3 @@ Run the following commands on an administrative cmd and the application will sta
 5.    bower i
 6.    grunt serve
 
-# We hope u enjoy it !!
