@@ -1,6 +1,8 @@
 # Tourisme Medical - Created by Anonym Group
 A single page web applications with many features .
-
+Mean Stack Project Esprit Medical Tourism platform . 
+Https protcol . User ( doctor, patient , hotel manager , agency manager ) Management with hashed and encrypted logins .
+Material design platform .
 ## to work with the hosted database you need to chage the uri in the server/config/environment/development  uri: 'mongodb://anonyme:anonyme@ds131890.mlab.com:31890/medical-dev'
 
 
